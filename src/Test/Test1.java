@@ -9,6 +9,7 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println();
+        System.out.println();
         WebDriver driver = new HtmlUnitDriver(true);
 //        WebDriver driver = new FirefoxDriver();
         driver.get("http://prospero.ru/");
