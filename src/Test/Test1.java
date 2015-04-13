@@ -24,3 +24,6 @@ public class Test1 {
 //        System.out.println(driver.getTitle());
     }
 }
+/*
+можно эмулировать разные браузеры
+ */
